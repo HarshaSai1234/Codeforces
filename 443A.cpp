@@ -1,4 +1,4 @@
-//
+//https://codeforces.com/problemset/problem/443/A
 
 
 #include<iostream>
